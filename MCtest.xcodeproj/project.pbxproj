@@ -15,6 +15,7 @@
 		72755A012B906225005BF2CA /* ContactViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72755A002B906225005BF2CA /* ContactViewModel.swift */; };
 		72755A042B906249005BF2CA /* ContactDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72755A032B906249005BF2CA /* ContactDetailsView.swift */; };
 		72755A0C2B9062CC005BF2CA /* MCtestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72755A0B2B9062CC005BF2CA /* MCtestTests.swift */; };
+		72755A142B90641B005BF2CA /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = 72755A132B90641B005BF2CA /* data.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		72755A032B906249005BF2CA /* ContactDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactDetailsView.swift; sourceTree = "<group>"; };
 		72755A092B9062CC005BF2CA /* MCtestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCtestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72755A0B2B9062CC005BF2CA /* MCtestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MCtestTests.swift; sourceTree = "<group>"; };
+		72755A132B90641B005BF2CA /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				727559FC2B9061F4005BF2CA /* Model */,
 				727559FF2B906214005BF2CA /* ViewModel */,
 				72755A022B906233005BF2CA /* Views */,
+				72755A122B9063CD005BF2CA /* Resources */,
 				727559F22B9061C0005BF2CA /* Assets.xcassets */,
 				727559F42B9061C0005BF2CA /* Preview Content */,
 			);
@@ -128,6 +131,14 @@
 				72755A0B2B9062CC005BF2CA /* MCtestTests.swift */,
 			);
 			path = MCtestTests;
+			sourceTree = "<group>";
+		};
+		72755A122B9063CD005BF2CA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				72755A132B90641B005BF2CA /* data.json */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -212,6 +223,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				727559F62B9061C0005BF2CA /* Preview Assets.xcassets in Resources */,
+				72755A142B90641B005BF2CA /* data.json in Resources */,
 				727559F32B9061C0005BF2CA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
