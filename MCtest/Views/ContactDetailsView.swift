@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-import SwiftUI
-
 /// A view displaying details of a contact.
 struct ContactDetailsView: View {
     /// The person whose details are being displayed.
