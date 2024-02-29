@@ -27,25 +27,15 @@ The unit tests ensure the proper functioning of key components of the app:
 - `testContactDetailsView`: Verifies the initialization of the contact details view.
 - `testPersonsViewModel`: Checks the initial contacts count in the view model.
 
+
 ## Screenshots
 
 ### iPhone Screenshots
 
-![Simulator Screenshot - iPhone 15 - 2024-02-29 at 13 06 12](https://github.com/Tilak1028-st/MCtest/assets/75114840/f95596ae-3ee9-492c-892e-a1547e33e1a4)
-
-iPhone contact List Screen.
-
-![Simulator Screenshot - iPhone 15 - 2024-02-29 at 13 06 19](https://github.com/Tilak1028-st/MCtest/assets/75114840/5c85d028-36a8-4adf-8b35-8f7b2e78b71b)
-
-iPhone contact detail screen.
+<img src="https://github.com/Tilak1028-st/MCtest/assets/75114840/f95596ae-3ee9-492c-892e-a1547e33e1a4" alt="iPhone contact List Screen" width="300"> <img src="https://github.com/Tilak1028-st/MCtest/assets/75114840/5c85d028-36a8-4adf-8b35-8f7b2e78b71b" alt="iPhone contact detail screen" width="300">
 
 ### iPad Screenshots
 
-![Simulator Screenshot - iPad Air (5th generation) - 2024-02-29 at 13 03 07](https://github.com/Tilak1028-st/MCtest/assets/75114840/f64dc82f-bed9-443c-8164-e37455ab900c)
+<img src="https://github.com/Tilak1028-st/MCtest/assets/75114840/f64dc82f-bed9-443c-8164-e37455ab900c" alt="iPad landscape mode" width="400"> <img src="https://github.com/Tilak1028-st/MCtest/assets/75114840/3fde8ea5-0cfc-434a-8507-3bd61a4a635a" alt="iPad portrait mode" width="300">
 
-iPad landscape mode.
-
-![Simulator Screenshot - iPad Air (5th generation) - 2024-02-29 at 13 03 14](https://github.com/Tilak1028-st/MCtest/assets/75114840/3fde8ea5-0cfc-434a-8507-3bd61a4a635a)
-
-iPad portrait mode.
 
